@@ -1,10 +1,11 @@
 ## Hello, welcome to my Github 👋
 
-### About Me
+### 👨 About Me
 
 - A PhD. stduent at Penn State University
 - Currently studying at State College, PA, USA.
 
+### 💡 My Github Status
 [![Chunyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunyuma&show_icons=true&theme=vue-dark)](https://github.com/chunyuma/github-readme-stats)
 
 
