@@ -24,6 +24,9 @@
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=41b883)
 ![mysql](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=41b883)
 <br>
+![pytorch](https://img.shields.io/badge/-pytorch-grey?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=41b883)
+![tensorflow](https://img.shields.io/badge/-tensorflow-grey?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=41b883)
+<br>
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=41b883)
 ![Apache Spark](https://img.shields.io/badge/-spark-grey?style=for-the-badge&logo=apache+spark&logoColor=white&labelColor=41b883)
 
