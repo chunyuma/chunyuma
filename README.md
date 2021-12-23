@@ -2,8 +2,14 @@
 
 ### 👨 About Me
 
-- A PhD. stduent at Penn State University
-- Currently studying at State College, PA, USA.
+- A Ph.D. student at Dr. Koslicki's lab, Penn State University
+- Major in Bioinformatics, Genomics, and Computational biology.
+
+### 🐝 Currently working on
+- Knowledge graph
+- Graph nerual network models
+- Metagenomic analysis
+- Drug Repurposing
 
 ### 💡 My Github Status
 [![Chunyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunyuma&show_icons=true&theme=vue-dark)](https://github.com/chunyuma/github-readme-stats)
