@@ -11,10 +11,6 @@
 - Metagenomic analysis
 - Drug Repurposing
 
-### 💡 My Github Status
-[![Chunyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunyuma&show_icons=true&theme=vue-dark)](https://github.com/chunyuma/github-readme-stats)
-
-
 ### 🛠 Tech Stack
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=41b883)
 ![R](https://img.shields.io/badge/-R-grey?style=for-the-badge&logo=R&logoColor=white&labelColor=41b883)
